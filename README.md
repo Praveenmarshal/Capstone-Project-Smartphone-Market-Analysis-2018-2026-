@@ -1,4 +1,4 @@
-# 📊 Smartphone Market Analysis Dashboard (2018–2026)
+# 📊 Indian Mobile Market Analysis (2018-2026) – End-to-End Data Analytics Capstone Project
 
 ## 📌 Project Overview
 
