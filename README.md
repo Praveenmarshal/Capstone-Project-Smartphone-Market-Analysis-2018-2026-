@@ -171,31 +171,6 @@ From the analysis, several important trends were discovered:
 
 • Several mid-range brands provide **excellent value for money**
 
----
-
-# 📷 Dashboard Preview
-
-## Market Overview
-
-*(Insert screenshot here)*
-
-## Brand Performance
-
-*(Insert screenshot here)*
-
-## Feature Analysis
-
-*(Insert screenshot here)*
-
-## Customer Sentiment
-
-*(Insert screenshot here)*
-
-## Price vs Rating Insights
-
-*(Insert screenshot here)*
-
----
 
 # 🚀 Future Improvements
 
