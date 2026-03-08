@@ -212,12 +212,10 @@ Potential enhancements for this project:
 
 Email: praveenkicha01@gmail.com
 
-linkedin: www.linkedin.com/in/praveen-kannan-6862382a2
-
 If you have feedback or suggestions, feel free to connect.
 
-**LinkedIn:** *(Add your LinkedIn profile)*
-**GitHub:** *(Add your GitHub profile)*
+**LinkedIn:** *(www.linkedin.com/in/praveen-kannan-6862382a2)*
+**GitHub:** *(https:)*
 
 ---
 
