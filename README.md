@@ -212,10 +212,12 @@ Potential enhancements for this project:
 
 Email: praveenkicha01@gmail.com
 
+phone : 8825870266
+
 If you have feedback or suggestions, feel free to connect.
 
 **LinkedIn:** *(www.linkedin.com/in/praveen-kannan-6862382a2)*
-**GitHub:** *(https:)*
+**GitHub:** *([https://github.com/Praveenmarshal)*
 
 ---
 
